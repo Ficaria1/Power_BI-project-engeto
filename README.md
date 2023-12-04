@@ -1,3 +1,5 @@
+discord name: ficaria1
+
 # Power_BI-projekt_2-ENGETO
 
 ## Úmrtnost v ČR  v období 2011 - 2023 podle věkových kategorií a krajů
