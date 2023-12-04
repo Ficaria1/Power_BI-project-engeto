@@ -16,7 +16,7 @@ Cílem Power BI projektu bylo vizualizovat mnou zvolený dataset podle níže za
   *8. Grafická úprava použitých vizuálů a vizuálně přívětivý výsledný report* <br>
 
 #### Zdroj dat:
-Data byla čerpána z Českého statistického úřadu:
+Data byla čerpána z Českého statistického úřadu: <br>
 https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=vystup-objekt-parametry&pvo=DEMD007M-ABS&sp=A&pvokc=&katalog=30845&z=T
 
 
